@@ -1,7 +1,7 @@
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Skier 404 page
+# ⛷️🗻 404 page ⛷️🗻
 
 _404 page design project_
 
